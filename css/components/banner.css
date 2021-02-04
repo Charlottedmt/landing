@@ -1,0 +1,16 @@
+.banner {
+color: white;
+padding: 100px;
+text-align: left;
+background-size: cover;
+background-position: 50% 30%;
+}
+.banner p {
+  color: rgb(150, 150, 150);
+  text-shadow: 0 0 8px rgb(200,200,200,0.4);
+}
+
+.banner h1 {
+  margin: 0 auto;
+  text-shadow: 0 0 8px rgb(200,200,200,0.4);
+}

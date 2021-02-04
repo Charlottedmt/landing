@@ -1,0 +1,16 @@
+.footer {
+  background-color: rgb(41, 40, 40);
+  height: 200px;
+  margin-top: 40px;
+  color: white;
+  text-align: center;
+}
+
+.links {
+  display: inline;
+}
+.footer a {
+  font-size: 32px;
+  color: #e0aaff;
+  text-align: center;
+}
